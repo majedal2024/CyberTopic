@@ -1,0 +1,1670 @@
+Dataset,Dataset_Size,Model,Params,labellingType,NumberOfTopic,Computation_Time,AddedTime,npmiScore,coherenceCvScore,topic_diversityScore,TopicQuality,F1_ScoreScore,Precision_ScoreScore,Recall_ScoreScore,Accuracy_ScoreScore,divergenceScore,invertedRBOScore
+TopicCybertweets,21366,BERTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 100, 'verbose': True, 'calculate_probabilities': True}",labelsCyberAttack,100,138.6234312057495,Thu Jan  1 00:00:00 1970,0.2066015363977604,0.6206124521686724,0.8646464646464647,0.5366103626832158,0.6331442419144566,0.6831475506322883,0.7126365054602184,0.7126365054602184,21.99352308710611,0.9977925715267504
+TopicCybertweets,21366,BERTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 100, 'verbose': True, 'calculate_probabilities': True}",labelszeroday,100,112.4798117,Thu Jan  1 00:00:00 1970,0.2078403088290759,0.5993086095082562,0.8939393939393939,0.5357455751664714,0.7772391353253898,0.7789535273008243,0.8121684867394696,0.8121684867394696,22.051499606895465,0.9983490615619596
+TopicCybertweets,21366,BERTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 200, 'verbose': True, 'calculate_probabilities': True}",labelsCyberAttack,200,102.92609024047852,Thu Jan  1 00:00:00 1970,0.2048832372723069,0.6131012492701907,0.8135678391959799,0.4987994585771049,0.6549955353252903,0.6941481703819365,0.7195007800312012,0.7195007800312012,19.51700813271625,0.9983647621569732
+TopicCybertweets,21366,BERTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 200, 'verbose': True, 'calculate_probabilities': True}",labelszeroday,200,102.96876764297484,Thu Jan  1 00:00:00 1970,0.2040823688809317,0.6160737540437582,0.8180904522613065,0.5040040560719791,0.8027772182502158,0.8086231814939481,0.8299531981279251,0.8299531981279251,19.51776185,0.998304677
+TopicCybertweets,21366,BERTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 300, 'verbose': True, 'calculate_probabilities': True}",labelsCyberAttack,300,101.41304993629456,Thu Jan  1 00:00:00 1970,0.1990746924011001,0.6144861195953685,0.7431438127090301,0.4566515577728791,0.6557772920720769,0.6653723126042972,0.7054602184087363,0.7054602184087363,17.061429292188116,0.9978786604103124
+TopicCybertweets,21366,BERTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 300, 'verbose': True, 'calculate_probabilities': True}",labelszeroday,300,110.30985713005066,Thu Jan  1 00:00:00 1970,0.1793729565176874,0.6030265312751677,0.7749163879598662,0.4672951414597202,0.8027772182502158,0.8086231814939481,0.8299531981279251,0.8299531981279251,17.349355646858182,0.9982845206767876
+TopicCybertweets,21366,BERTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 400, 'verbose': True, 'calculate_probabilities': True}",labelsCyberAttack,400,99.92585277557372,Thu Jan  1 00:00:00 1970,0.20302151,0.6182971942769233,0.7238532110091743,0.4475564094353142,0.6722766250617253,0.7035429324544439,0.7260530421216849,0.7260530421216849,16.721894864441865,0.9975514112623994
+TopicCybertweets,21366,BERTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 400, 'verbose': True, 'calculate_probabilities': True}",labelszeroday,400,94.16306066513062,Thu Jan  1 00:00:00 1970,0.1992792285942129,0.6225255664112923,0.7231974921630094,0.4502089284360036,0.7998370132001764,0.8033176816514903,0.8265210608424337,0.8265210608424337,16.889692065221528,0.9975641182127264
+TopicCybertweets,21366,BERTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 500, 'verbose': True, 'calculate_probabilities': True}",labelsCyberAttack,500,103.77259612083436,Thu Jan  1 00:00:00 1970,0.1920217897216143,0.6116250289769211,0.7232835820895522,0.4423783418540536,0.6651351125722672,0.6940758828903343,0.7210608424336974,0.7210608424336974,16.782996292937728,0.9977221391653822
+TopicCybertweets,21366,BERTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 500, 'verbose': True, 'calculate_probabilities': True}",labelszeroday,500,97.03603363,Thu Jan  1 00:00:00 1970,0.1999134617047861,0.6172932366964434,0.7212765957446808,0.4452391643406262,0.799308861,0.8015381120435945,0.8252730109204368,0.8252730109204368,16.78953085883213,0.9976363260511646
+TopicCybertweets,21366,BERTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 600, 'verbose': True, 'calculate_probabilities': True}",labelsCyberAttack,600,100.59462261199953,Thu Jan  1 00:00:00 1970,0.2013467478737814,0.6204072022650917,0.7167682926829269,0.4446882111357411,0.6632294558835975,0.6836804159015593,0.7160686427457098,0.7160686427457098,16.69268138972689,0.9975503018246494
+TopicCybertweets,21366,BERTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 600, 'verbose': True, 'calculate_probabilities': True}",labelszeroday,600,107.44412040710448,Thu Jan  1 00:00:00 1970,0.1976701387350453,0.6188763669989865,0.7157407407407408,0.4429550293427932,0.8012568155950117,0.8047677191095445,0.8274570982839313,0.8274570982839313,16.73735604108619,0.9973840172433044
+TopicCybertweets,21366,BERTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 700, 'verbose': True, 'calculate_probabilities': True}",labelsCyberAttack,700,113.79483270645142,Thu Jan  1 00:00:00 1970,0.1921699444762106,0.6093622606957187,0.7253644314868805,0.4420097097991102,0.671527305,0.6896621210254844,0.7195007800312012,0.7195007800312012,16.537898886096738,0.9975954208501284
+TopicCybertweets,21366,BERTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 700, 'verbose': True, 'calculate_probabilities': True}",labelszeroday,700,94.96715998649596,Thu Jan  1 00:00:00 1970,0.1954875689662696,0.6240686266876295,0.7163636363636363,0.4470600707544109,0.8029644665795168,0.8076096532690391,0.8293291731669267,0.8293291731669267,16.763799429370284,0.9975277362700896
+TopicCybertweets,21366,BERTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 800, 'verbose': True, 'calculate_probabilities': True}",labelsCyberAttack,800,106.8155322,Thu Jan  1 00:00:00 1970,0.185141902,0.6032168135213735,0.7293768545994065,0.4399723820876961,0.6659119315801642,0.6814811426220551,0.7148205928237129,0.7148205928237129,16.58999591,0.9977042940921976
+TopicCybertweets,21366,BERTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 800, 'verbose': True, 'calculate_probabilities': True}",labelszeroday,800,110.8538248538971,Thu Jan  1 00:00:00 1970,0.1948314297718657,0.6131065061572828,0.7244117647058823,0.4441415660780551,0.8015728434597292,0.8027574058371945,0.8258970358814353,0.8258970358814353,16.64237174,0.997633593
+Twitter_DS,19230,BERTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 100, 'min_topic_size': 5, 'verbose': True, 'calculate_probabilities': True}",labelsCyberAttack,100,194.58321261405945,Thu Jan  1 00:00:00 1970,0.022142428,0.4862852975718877,0.8696969696969697,0.4229208497064599,0.6675901642157284,0.6756985484888431,0.7601386481802427,0.7601386481802427,19.806110927709057,0.9977233173874992
+Twitter_DS,19230,BERTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 100, 'min_topic_size': 5, 'verbose': True, 'calculate_probabilities': True}",labelszeroday,100,214.90826654434204,Thu Jan  1 00:00:00 1970,0.026675563,0.4772566650777596,0.8535353535353535,0.4073554363542493,0.7138207821194491,0.696067661,0.7864818024263431,0.7864818024263431,19.163840466866947,0.9972175300994364
+Twitter_DS,19230,BERTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 200, 'min_topic_size': 5, 'verbose': True, 'calculate_probabilities': True}",labelsCyberAttack,200,187.87497663497925,Thu Jan  1 00:00:00 1970,0.023818284,0.4773139179631916,0.8261306532663316,0.3943236588600437,0.6794994332530554,0.6885646973794267,0.7587521663778163,0.7587521663778163,16.40486233042243,0.998224503
+Twitter_DS,19230,BERTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 200, 'min_topic_size': 5, 'verbose': True, 'calculate_probabilities': True}",labelszeroday,200,213.93681597709656,Thu Jan  1 00:00:00 1970,0.031757095,0.4958338946628496,0.8321608040201005,0.4126135324430547,0.7103249052296435,0.6865377959031643,0.7871750433275563,0.7871750433275563,16.796597446544133,0.9983735849405856
+Twitter_DS,19230,BERTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 300, 'min_topic_size': 5, 'verbose': True, 'calculate_probabilities': True}",labelsCyberAttack,300,209.43034863471985,Thu Jan  1 00:00:00 1970,0.014823956,0.4653310244757164,0.8247491638795986,0.3837813733635841,0.6792442850563999,0.6670602756813322,0.745580589,0.745580589,15.029764599604851,0.998783983
+Twitter_DS,19230,BERTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 300, 'min_topic_size': 5, 'verbose': True, 'calculate_probabilities': True}",labelszeroday,300,236.1620798110962,Thu Jan  1 00:00:00 1970,0.01643046,0.4715035233142765,0.8187290969899665,0.3860336538706853,0.7112342320209539,0.6857302402745956,0.7809358752166378,0.7809358752166378,15.104065051634098,0.9987084666967764
+Twitter_DS,19230,BERTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 400, 'min_topic_size': 5, 'verbose': True, 'calculate_probabilities': True}",labelsCyberAttack,400,226.0986812114716,Thu Jan  1 00:00:00 1970,0.006840357,0.4543518610802276,0.7974937343358396,0.3623427623953093,0.6824863429317449,0.6697442676645449,0.7431542461005199,0.7431542461005199,13.847593793003329,0.9988553444444136
+Twitter_DS,19230,BERTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 400, 'min_topic_size': 5, 'verbose': True, 'calculate_probabilities': True}",labelszeroday,400,222.7413649559021,Thu Jan  1 00:00:00 1970,0.009339962,0.4571648953867442,0.7972431077694235,0.3644715619612114,0.7316457259673057,0.7283735162847669,0.789948007,0.789948007,13.801823843989483,0.9989174340863116
+Twitter_DS,19230,BERTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 500, 'min_topic_size': 5, 'verbose': True, 'calculate_probabilities': True}",labelsCyberAttack,500,231.7085473537445,Thu Jan  1 00:00:00 1970,-0.004803327,0.4298652771863724,0.8,0.343892222,0.6830980113895204,0.6703226656977586,0.7428076256499133,0.7428076256499133,13.563285523073878,0.999040193
+Twitter_DS,19230,BERTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 500, 'min_topic_size': 5, 'verbose': True, 'calculate_probabilities': True}",labelszeroday,500,205.0648164749145,Thu Jan  1 00:00:00 1970,0.002662064,0.4390281669522721,0.7893574297188755,0.3465501454396348,0.7212050233611681,0.703207017,0.7767764298093588,0.7767764298093588,13.594972773656789,0.9989815106965012
+Twitter_DS,19230,BERTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 600, 'min_topic_size': 5, 'verbose': True, 'calculate_probabilities': True}",labelsCyberAttack,600,223.57196187973025,Thu Jan  1 00:00:00 1970,-0.004360134,0.4369050224015188,0.7921649484536083,0.3461008445498217,0.6842349755272514,0.6796196684640387,0.751473137,0.751473137,13.599005170658009,0.9989886828520902
+Twitter_DS,19230,BERTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 600, 'min_topic_size': 5, 'verbose': True, 'calculate_probabilities': True}",labelszeroday,600,221.77475881576527,Thu Jan  1 00:00:00 1970,-0.006005846,0.4312576198012808,0.7934653465346535,0.3421879767413331,0.7233495357102345,0.708176268,0.7802426343154246,0.7802426343154246,13.437124723195666,0.9990049362400752
+Twitter_DS,19230,BERTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 700, 'min_topic_size': 5, 'verbose': True, 'calculate_probabilities': True}",labelsCyberAttack,700,218.90103197097773,Thu Jan  1 00:00:00 1970,-0.003119743,0.4303358374287766,0.7996039603960396,0.34409824,0.6979116447346477,0.6922484346811204,0.7504332755632582,0.7504332755632582,13.647145570500532,0.999062035
+Twitter_DS,19230,BERTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 700, 'min_topic_size': 5, 'verbose': True, 'calculate_probabilities': True}",labelszeroday,700,217.4058439731598,Thu Jan  1 00:00:00 1970,0.002968003,0.440059725,0.7906639004149377,0.3479393389161978,0.7132944921267068,0.6894021296863618,0.7774696707105719,0.7774696707105719,13.699580522152193,0.9989441188673638
+Twitter_DS,19230,BERTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 800, 'min_topic_size': 5, 'verbose': True, 'calculate_probabilities': True}",labelsCyberAttack,800,221.1522443294525,Thu Jan  1 00:00:00 1970,-0.005518874,0.4396613053065638,0.7917505030181087,0.3481020596340701,0.6832319567072924,0.6674545076983959,0.7362218370883882,0.7362218370883882,13.60083091216815,0.9990080474073856
+Twitter_DS,19230,BERTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 800, 'min_topic_size': 5, 'verbose': True, 'calculate_probabilities': True}",labelszeroday,800,207.4307837486267,Thu Jan  1 00:00:00 1970,-0.000966724,0.4400922031945816,0.7959016393442623,0.3502701059851957,0.7218480927052299,0.7046370881766326,0.7778162911611786,0.7778162911611786,13.623838436870676,0.9989958035461648
+Twitter_DS,19230,CyberTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 100, 'verbose': True, 'min_topic_size': 25, 'vectorizer_model': UrgentFocus_CountVectorizer(stop_words='english'), 'representation_model': BertForMaskedLM(
+  (bert): BertModel(
+    (embeddings): BertEmbeddings(
+      (word_embeddings): Embedding(31820, 768, padding_idx=0)
+      (position_embeddings): Embedding(512, 768)
+      (token_type_embeddings): Embedding(2, 768)
+      (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (encoder): BertEncoder(
+      (layer): ModuleList(
+        (0-11): 12 x BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+    )
+  )
+  (cls): BertOnlyMLMHead(
+    (predictions): BertLMPredictionHead(
+      (transform): BertPredictionHeadTransform(
+        (dense): Linear(in_features=768, out_features=768, bias=True)
+        (transform_act_fn): GELUActivation()
+        (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      )
+      (decoder): Linear(in_features=768, out_features=31820, bias=True)
+    )
+  )
+), 'calculate_probabilities': True}",labelsCyberAttack,100,687.9218075275421,Thu Jan  1 00:00:00 1970,0.048570733,0.528992977,0.8067415730337079,0.4267606261139265,0.6896711201049436,0.6750026879673535,0.7344887348353553,0.7344887348353553,22.24390592710242,0.9925931452921404
+Twitter_DS,19230,CyberTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 100, 'verbose': True, 'min_topic_size': 25, 'vectorizer_model': UrgentFocus_CountVectorizer(stop_words='english'), 'representation_model': BertForMaskedLM(
+  (bert): BertModel(
+    (embeddings): BertEmbeddings(
+      (word_embeddings): Embedding(31820, 768, padding_idx=0)
+      (position_embeddings): Embedding(512, 768)
+      (token_type_embeddings): Embedding(2, 768)
+      (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (encoder): BertEncoder(
+      (layer): ModuleList(
+        (0-11): 12 x BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+    )
+  )
+  (cls): BertOnlyMLMHead(
+    (predictions): BertLMPredictionHead(
+      (transform): BertPredictionHeadTransform(
+        (dense): Linear(in_features=768, out_features=768, bias=True)
+        (transform_act_fn): GELUActivation()
+        (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      )
+      (decoder): Linear(in_features=768, out_features=31820, bias=True)
+    )
+  )
+), 'calculate_probabilities': True}",labelszeroday,100,2089.343055009842,Thu Jan  1 00:00:00 1970,0.059935434,0.5312743423245575,0.796969697,0.4234095516101777,0.7118084748889848,0.6976227656168601,0.7909878682842287,0.7909878682842287,21.269851394328366,0.9928897162565452
+Twitter_DS,19230,CyberTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 200, 'verbose': True, 'min_topic_size': 25, 'vectorizer_model': UrgentFocus_CountVectorizer(stop_words='english'), 'representation_model': BertForMaskedLM(
+  (bert): BertModel(
+    (embeddings): BertEmbeddings(
+      (word_embeddings): Embedding(31820, 768, padding_idx=0)
+      (position_embeddings): Embedding(512, 768)
+      (token_type_embeddings): Embedding(2, 768)
+      (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (encoder): BertEncoder(
+      (layer): ModuleList(
+        (0-11): 12 x BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+    )
+  )
+  (cls): BertOnlyMLMHead(
+    (predictions): BertLMPredictionHead(
+      (transform): BertPredictionHeadTransform(
+        (dense): Linear(in_features=768, out_features=768, bias=True)
+        (transform_act_fn): GELUActivation()
+        (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      )
+      (decoder): Linear(in_features=768, out_features=31820, bias=True)
+    )
+  )
+), 'calculate_probabilities': True}",labelsCyberAttack,200,711.3937525749207,Thu Jan  1 00:00:00 1970,0.058066874,0.5358195214198204,0.8020833333333334,0.4297719078054809,0.6867109328711504,0.6727487560944344,0.7386481802426343,0.7386481802426343,21.473864383935656,0.993627595
+Twitter_DS,19230,CyberTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 200, 'verbose': True, 'min_topic_size': 25, 'vectorizer_model': UrgentFocus_CountVectorizer(stop_words='english'), 'representation_model': BertForMaskedLM(
+  (bert): BertModel(
+    (embeddings): BertEmbeddings(
+      (word_embeddings): Embedding(31820, 768, padding_idx=0)
+      (position_embeddings): Embedding(512, 768)
+      (token_type_embeddings): Embedding(2, 768)
+      (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (encoder): BertEncoder(
+      (layer): ModuleList(
+        (0-11): 12 x BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+    )
+  )
+  (cls): BertOnlyMLMHead(
+    (predictions): BertLMPredictionHead(
+      (transform): BertPredictionHeadTransform(
+        (dense): Linear(in_features=768, out_features=768, bias=True)
+        (transform_act_fn): GELUActivation()
+        (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      )
+      (decoder): Linear(in_features=768, out_features=31820, bias=True)
+    )
+  )
+), 'calculate_probabilities': True}",labelszeroday,200,877.0803551673889,Thu Jan  1 00:00:00 1970,0.058318003,0.5298158622019611,0.7760416666666666,0.4111591847296468,0.7216568192705987,0.7233523764961255,0.7927209705372616,0.7927209705372616,21.260078379847048,0.9921037510997384
+Twitter_DS,19230,CyberTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 300, 'verbose': True, 'min_topic_size': 25, 'vectorizer_model': UrgentFocus_CountVectorizer(stop_words='english'), 'representation_model': BertForMaskedLM(
+  (bert): BertModel(
+    (embeddings): BertEmbeddings(
+      (word_embeddings): Embedding(31820, 768, padding_idx=0)
+      (position_embeddings): Embedding(512, 768)
+      (token_type_embeddings): Embedding(2, 768)
+      (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (encoder): BertEncoder(
+      (layer): ModuleList(
+        (0-11): 12 x BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+    )
+  )
+  (cls): BertOnlyMLMHead(
+    (predictions): BertLMPredictionHead(
+      (transform): BertPredictionHeadTransform(
+        (dense): Linear(in_features=768, out_features=768, bias=True)
+        (transform_act_fn): GELUActivation()
+        (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      )
+      (decoder): Linear(in_features=768, out_features=31820, bias=True)
+    )
+  )
+), 'calculate_probabilities': True}",labelsCyberAttack,300,845.9294571876526,Thu Jan  1 00:00:00 1970,0.047925348,0.5222418263839254,0.8092783505154639,0.4226390038261664,0.6985674412054307,0.6858010619348359,0.7365684575389948,0.7365684575389948,22.100233480988376,0.9935002034030268
+Twitter_DS,19230,CyberTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 300, 'verbose': True, 'min_topic_size': 25, 'vectorizer_model': UrgentFocus_CountVectorizer(stop_words='english'), 'representation_model': BertForMaskedLM(
+  (bert): BertModel(
+    (embeddings): BertEmbeddings(
+      (word_embeddings): Embedding(31820, 768, padding_idx=0)
+      (position_embeddings): Embedding(512, 768)
+      (token_type_embeddings): Embedding(2, 768)
+      (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (encoder): BertEncoder(
+      (layer): ModuleList(
+        (0-11): 12 x BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+    )
+  )
+  (cls): BertOnlyMLMHead(
+    (predictions): BertLMPredictionHead(
+      (transform): BertPredictionHeadTransform(
+        (dense): Linear(in_features=768, out_features=768, bias=True)
+        (transform_act_fn): GELUActivation()
+        (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      )
+      (decoder): Linear(in_features=768, out_features=31820, bias=True)
+    )
+  )
+), 'calculate_probabilities': True}",labelszeroday,300,871.6328282356262,Thu Jan  1 00:00:00 1970,0.053001917,0.5310613673466223,0.798901099,0.4242655099571368,0.7189724070768148,0.7195984110673149,0.7927209705372616,0.7927209705372616,21.744160150488813,0.9926516070051404
+Twitter_DS,19230,CyberTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 400, 'verbose': True, 'min_topic_size': 25, 'vectorizer_model': UrgentFocus_CountVectorizer(stop_words='english'), 'representation_model': BertForMaskedLM(
+  (bert): BertModel(
+    (embeddings): BertEmbeddings(
+      (word_embeddings): Embedding(31820, 768, padding_idx=0)
+      (position_embeddings): Embedding(512, 768)
+      (token_type_embeddings): Embedding(2, 768)
+      (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (encoder): BertEncoder(
+      (layer): ModuleList(
+        (0-11): 12 x BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+    )
+  )
+  (cls): BertOnlyMLMHead(
+    (predictions): BertLMPredictionHead(
+      (transform): BertPredictionHeadTransform(
+        (dense): Linear(in_features=768, out_features=768, bias=True)
+        (transform_act_fn): GELUActivation()
+        (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      )
+      (decoder): Linear(in_features=768, out_features=31820, bias=True)
+    )
+  )
+), 'calculate_probabilities': True}",labelsCyberAttack,400,974.5972512,Thu Jan  1 00:00:00 1970,0.062714084,0.5301271006497439,0.8064516129032258,0.4275218553626966,0.6941146436353437,0.6819240734265123,0.7400346620450606,0.7400346620450606,22.14986611291604,0.9929533172696772
+Twitter_DS,19230,CyberTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 400, 'verbose': True, 'min_topic_size': 25, 'vectorizer_model': UrgentFocus_CountVectorizer(stop_words='english'), 'representation_model': BertForMaskedLM(
+  (bert): BertModel(
+    (embeddings): BertEmbeddings(
+      (word_embeddings): Embedding(31820, 768, padding_idx=0)
+      (position_embeddings): Embedding(512, 768)
+      (token_type_embeddings): Embedding(2, 768)
+      (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (encoder): BertEncoder(
+      (layer): ModuleList(
+        (0-11): 12 x BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+    )
+  )
+  (cls): BertOnlyMLMHead(
+    (predictions): BertLMPredictionHead(
+      (transform): BertPredictionHeadTransform(
+        (dense): Linear(in_features=768, out_features=768, bias=True)
+        (transform_act_fn): GELUActivation()
+        (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      )
+      (decoder): Linear(in_features=768, out_features=31820, bias=True)
+    )
+  )
+), 'calculate_probabilities': True}",labelszeroday,400,726.4577684402466,Thu Jan  1 00:00:00 1970,0.053810831,0.5280734552359648,0.8011764705882353,0.4230800270772847,0.7190131388710013,0.7232899992818175,0.7937608318890814,0.7937608318890814,21.838011640401174,0.9913372979286514
+Twitter_DS,19230,CyberTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 500, 'verbose': True, 'min_topic_size': 25, 'vectorizer_model': UrgentFocus_CountVectorizer(stop_words='english'), 'representation_model': BertForMaskedLM(
+  (bert): BertModel(
+    (embeddings): BertEmbeddings(
+      (word_embeddings): Embedding(31820, 768, padding_idx=0)
+      (position_embeddings): Embedding(512, 768)
+      (token_type_embeddings): Embedding(2, 768)
+      (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (encoder): BertEncoder(
+      (layer): ModuleList(
+        (0-11): 12 x BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+    )
+  )
+  (cls): BertOnlyMLMHead(
+    (predictions): BertLMPredictionHead(
+      (transform): BertPredictionHeadTransform(
+        (dense): Linear(in_features=768, out_features=768, bias=True)
+        (transform_act_fn): GELUActivation()
+        (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      )
+      (decoder): Linear(in_features=768, out_features=31820, bias=True)
+    )
+  )
+), 'calculate_probabilities': True}",labelsCyberAttack,500,805.7555658817291,Thu Jan  1 00:00:00 1970,0.048624637,0.5212514934044088,0.803960396,0.4190655570736435,0.6869551615320517,0.6721746122893651,0.7362218370883882,0.7362218370883882,21.796802483700784,0.9938465351286874
+Twitter_DS,19230,CyberTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 500, 'verbose': True, 'min_topic_size': 25, 'vectorizer_model': UrgentFocus_CountVectorizer(stop_words='english'), 'representation_model': BertForMaskedLM(
+  (bert): BertModel(
+    (embeddings): BertEmbeddings(
+      (word_embeddings): Embedding(31820, 768, padding_idx=0)
+      (position_embeddings): Embedding(512, 768)
+      (token_type_embeddings): Embedding(2, 768)
+      (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (encoder): BertEncoder(
+      (layer): ModuleList(
+        (0-11): 12 x BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+    )
+  )
+  (cls): BertOnlyMLMHead(
+    (predictions): BertLMPredictionHead(
+      (transform): BertPredictionHeadTransform(
+        (dense): Linear(in_features=768, out_features=768, bias=True)
+        (transform_act_fn): GELUActivation()
+        (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      )
+      (decoder): Linear(in_features=768, out_features=31820, bias=True)
+    )
+  )
+), 'calculate_probabilities': True}",labelszeroday,500,904.6064019203186,Thu Jan  1 00:00:00 1970,0.048832112,0.5214613158609932,0.7871287128712872,0.4104571743658313,0.7122017337819981,0.6981444363707129,0.7906412478336222,0.7906412478336222,21.511368413511704,0.9928768570983196
+Twitter_DS,19230,CyberTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 600, 'verbose': True, 'min_topic_size': 25, 'vectorizer_model': UrgentFocus_CountVectorizer(stop_words='english'), 'representation_model': BertForMaskedLM(
+  (bert): BertModel(
+    (embeddings): BertEmbeddings(
+      (word_embeddings): Embedding(31820, 768, padding_idx=0)
+      (position_embeddings): Embedding(512, 768)
+      (token_type_embeddings): Embedding(2, 768)
+      (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (encoder): BertEncoder(
+      (layer): ModuleList(
+        (0-11): 12 x BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+    )
+  )
+  (cls): BertOnlyMLMHead(
+    (predictions): BertLMPredictionHead(
+      (transform): BertPredictionHeadTransform(
+        (dense): Linear(in_features=768, out_features=768, bias=True)
+        (transform_act_fn): GELUActivation()
+        (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      )
+      (decoder): Linear(in_features=768, out_features=31820, bias=True)
+    )
+  )
+), 'calculate_probabilities': True}",labelsCyberAttack,600,880.9119770526886,Thu Jan  1 00:00:00 1970,0.056654758,0.5292909547004694,0.7908163265306123,0.4185719284621059,0.6957729783962028,0.6833752487760271,0.7389948006932409,0.7389948006932409,21.578021665370045,0.9936929587671426
+Twitter_DS,19230,CyberTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 600, 'verbose': True, 'min_topic_size': 25, 'vectorizer_model': UrgentFocus_CountVectorizer(stop_words='english'), 'representation_model': BertForMaskedLM(
+  (bert): BertModel(
+    (embeddings): BertEmbeddings(
+      (word_embeddings): Embedding(31820, 768, padding_idx=0)
+      (position_embeddings): Embedding(512, 768)
+      (token_type_embeddings): Embedding(2, 768)
+      (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (encoder): BertEncoder(
+      (layer): ModuleList(
+        (0-11): 12 x BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+    )
+  )
+  (cls): BertOnlyMLMHead(
+    (predictions): BertLMPredictionHead(
+      (transform): BertPredictionHeadTransform(
+        (dense): Linear(in_features=768, out_features=768, bias=True)
+        (transform_act_fn): GELUActivation()
+        (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      )
+      (decoder): Linear(in_features=768, out_features=31820, bias=True)
+    )
+  )
+), 'calculate_probabilities': True}",labelszeroday,600,851.2841365337372,Thu Jan  1 00:00:00 1970,0.049486205,0.5302782525908988,0.803125,0.4258797216120655,0.7129661752126858,0.7013750478439699,0.7909878682842287,0.7909878682842287,21.86496164173948,0.993770473
+Twitter_DS,19230,CyberTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 700, 'verbose': True, 'min_topic_size': 25, 'vectorizer_model': UrgentFocus_CountVectorizer(stop_words='english'), 'representation_model': BertForMaskedLM(
+  (bert): BertModel(
+    (embeddings): BertEmbeddings(
+      (word_embeddings): Embedding(31820, 768, padding_idx=0)
+      (position_embeddings): Embedding(512, 768)
+      (token_type_embeddings): Embedding(2, 768)
+      (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (encoder): BertEncoder(
+      (layer): ModuleList(
+        (0-11): 12 x BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+    )
+  )
+  (cls): BertOnlyMLMHead(
+    (predictions): BertLMPredictionHead(
+      (transform): BertPredictionHeadTransform(
+        (dense): Linear(in_features=768, out_features=768, bias=True)
+        (transform_act_fn): GELUActivation()
+        (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      )
+      (decoder): Linear(in_features=768, out_features=31820, bias=True)
+    )
+  )
+), 'calculate_probabilities': True}",labelsCyberAttack,700,816.7917370796204,Thu Jan  1 00:00:00 1970,0.046152152,0.5151447485241962,0.7958762886597938,0.4099914905780201,0.6868569294354887,0.671842395,0.735528596,0.735528596,21.95373389149889,0.9929813982553878
+Twitter_DS,19230,CyberTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 700, 'verbose': True, 'min_topic_size': 25, 'vectorizer_model': UrgentFocus_CountVectorizer(stop_words='english'), 'representation_model': BertForMaskedLM(
+  (bert): BertModel(
+    (embeddings): BertEmbeddings(
+      (word_embeddings): Embedding(31820, 768, padding_idx=0)
+      (position_embeddings): Embedding(512, 768)
+      (token_type_embeddings): Embedding(2, 768)
+      (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (encoder): BertEncoder(
+      (layer): ModuleList(
+        (0-11): 12 x BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+    )
+  )
+  (cls): BertOnlyMLMHead(
+    (predictions): BertLMPredictionHead(
+      (transform): BertPredictionHeadTransform(
+        (dense): Linear(in_features=768, out_features=768, bias=True)
+        (transform_act_fn): GELUActivation()
+        (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      )
+      (decoder): Linear(in_features=768, out_features=31820, bias=True)
+    )
+  )
+), 'calculate_probabilities': True}",labelszeroday,700,856.9561557769775,Thu Jan  1 00:00:00 1970,0.06288668,0.538399456,0.7977272727272727,0.4294959296077651,0.7181128854951498,0.7283408868384581,0.7951473136915078,0.7951473136915078,21.669719920778626,0.9919808696979698
+Twitter_DS,19230,CyberTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 800, 'verbose': True, 'min_topic_size': 25, 'vectorizer_model': UrgentFocus_CountVectorizer(stop_words='english'), 'representation_model': BertForMaskedLM(
+  (bert): BertModel(
+    (embeddings): BertEmbeddings(
+      (word_embeddings): Embedding(31820, 768, padding_idx=0)
+      (position_embeddings): Embedding(512, 768)
+      (token_type_embeddings): Embedding(2, 768)
+      (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (encoder): BertEncoder(
+      (layer): ModuleList(
+        (0-11): 12 x BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+    )
+  )
+  (cls): BertOnlyMLMHead(
+    (predictions): BertLMPredictionHead(
+      (transform): BertPredictionHeadTransform(
+        (dense): Linear(in_features=768, out_features=768, bias=True)
+        (transform_act_fn): GELUActivation()
+        (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      )
+      (decoder): Linear(in_features=768, out_features=31820, bias=True)
+    )
+  )
+), 'calculate_probabilities': True}",labelsCyberAttack,800,887.1761491298676,Thu Jan  1 00:00:00 1970,0.055036486,0.5301043499624833,0.8123595505617978,0.4306353314863769,0.7013526308157283,0.690758992,0.7428076256499133,0.7428076256499133,21.929470121052933,0.9924632153033836
+Twitter_DS,19230,CyberTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 800, 'verbose': True, 'min_topic_size': 25, 'vectorizer_model': UrgentFocus_CountVectorizer(stop_words='english'), 'representation_model': BertForMaskedLM(
+  (bert): BertModel(
+    (embeddings): BertEmbeddings(
+      (word_embeddings): Embedding(31820, 768, padding_idx=0)
+      (position_embeddings): Embedding(512, 768)
+      (token_type_embeddings): Embedding(2, 768)
+      (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (encoder): BertEncoder(
+      (layer): ModuleList(
+        (0-11): 12 x BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+    )
+  )
+  (cls): BertOnlyMLMHead(
+    (predictions): BertLMPredictionHead(
+      (transform): BertPredictionHeadTransform(
+        (dense): Linear(in_features=768, out_features=768, bias=True)
+        (transform_act_fn): GELUActivation()
+        (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      )
+      (decoder): Linear(in_features=768, out_features=31820, bias=True)
+    )
+  )
+), 'calculate_probabilities': True}",labelszeroday,800,1024.359313249588,Thu Jan  1 00:00:00 1970,0.046278471,0.5187055837700675,0.793,0.4113335279296635,0.7185783513630157,0.7168652,0.7920277296360485,0.7920277296360485,21.529151685363665,0.993250628
+TopicCybertweets,21366,CyberTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 100, 'verbose': True, 'min_topic_size': 25, 'vectorizer_model': UrgentFocus_CountVectorizer(stop_words='english'), 'representation_model': BertForMaskedLM(
+  (bert): BertModel(
+    (embeddings): BertEmbeddings(
+      (word_embeddings): Embedding(31820, 768, padding_idx=0)
+      (position_embeddings): Embedding(512, 768)
+      (token_type_embeddings): Embedding(2, 768)
+      (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (encoder): BertEncoder(
+      (layer): ModuleList(
+        (0-11): 12 x BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+    )
+  )
+  (cls): BertOnlyMLMHead(
+    (predictions): BertLMPredictionHead(
+      (transform): BertPredictionHeadTransform(
+        (dense): Linear(in_features=768, out_features=768, bias=True)
+        (transform_act_fn): GELUActivation()
+        (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      )
+      (decoder): Linear(in_features=768, out_features=31820, bias=True)
+    )
+  )
+), 'calculate_probabilities': True}",labelsCyberAttack,100,1266.4805209636688,Thu Jan  1 00:00:00 1970,0.1766769389435424,0.5684056935517893,0.8212121212121212,0.4667816453107117,0.6567344648420161,0.7075407529784202,0.7238689547581904,0.7238689547581904,25.423278624875987,0.9964611123873152
+TopicCybertweets,21366,CyberTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 100, 'verbose': True, 'min_topic_size': 25, 'vectorizer_model': UrgentFocus_CountVectorizer(stop_words='english'), 'representation_model': BertForMaskedLM(
+  (bert): BertModel(
+    (embeddings): BertEmbeddings(
+      (word_embeddings): Embedding(31820, 768, padding_idx=0)
+      (position_embeddings): Embedding(512, 768)
+      (token_type_embeddings): Embedding(2, 768)
+      (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (encoder): BertEncoder(
+      (layer): ModuleList(
+        (0-11): 12 x BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+    )
+  )
+  (cls): BertOnlyMLMHead(
+    (predictions): BertLMPredictionHead(
+      (transform): BertPredictionHeadTransform(
+        (dense): Linear(in_features=768, out_features=768, bias=True)
+        (transform_act_fn): GELUActivation()
+        (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      )
+      (decoder): Linear(in_features=768, out_features=31820, bias=True)
+    )
+  )
+), 'calculate_probabilities': True}",labelszeroday,100,1325.0195763111117,Thu Jan  1 00:00:00 1970,0.1752564656139185,0.5789191,0.8232323232323232,0.4765849154138775,0.8122155917867891,0.8277174432727393,0.8408736349453978,0.8408736349453978,25.545570769347293,0.9965308121677962
+TopicCybertweets,21366,CyberTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 200, 'verbose': True, 'min_topic_size': 25, 'vectorizer_model': UrgentFocus_CountVectorizer(stop_words='english'), 'representation_model': BertForMaskedLM(
+  (bert): BertModel(
+    (embeddings): BertEmbeddings(
+      (word_embeddings): Embedding(31820, 768, padding_idx=0)
+      (position_embeddings): Embedding(512, 768)
+      (token_type_embeddings): Embedding(2, 768)
+      (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (encoder): BertEncoder(
+      (layer): ModuleList(
+        (0-11): 12 x BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+    )
+  )
+  (cls): BertOnlyMLMHead(
+    (predictions): BertLMPredictionHead(
+      (transform): BertPredictionHeadTransform(
+        (dense): Linear(in_features=768, out_features=768, bias=True)
+        (transform_act_fn): GELUActivation()
+        (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      )
+      (decoder): Linear(in_features=768, out_features=31820, bias=True)
+    )
+  )
+), 'calculate_probabilities': True}",labelsCyberAttack,200,742.3767139911652,Thu Jan  1 00:00:00 1970,0.1904250888147196,0.5820752030038168,0.7720338983050847,0.4493817880817602,0.6510532081595084,0.6850968047547054,0.7157566302652106,0.7157566302652106,23.010614522846968,0.9952619770723452
+TopicCybertweets,21366,CyberTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 200, 'verbose': True, 'min_topic_size': 25, 'vectorizer_model': UrgentFocus_CountVectorizer(stop_words='english'), 'representation_model': BertForMaskedLM(
+  (bert): BertModel(
+    (embeddings): BertEmbeddings(
+      (word_embeddings): Embedding(31820, 768, padding_idx=0)
+      (position_embeddings): Embedding(512, 768)
+      (token_type_embeddings): Embedding(2, 768)
+      (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (encoder): BertEncoder(
+      (layer): ModuleList(
+        (0-11): 12 x BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+    )
+  )
+  (cls): BertOnlyMLMHead(
+    (predictions): BertLMPredictionHead(
+      (transform): BertPredictionHeadTransform(
+        (dense): Linear(in_features=768, out_features=768, bias=True)
+        (transform_act_fn): GELUActivation()
+        (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      )
+      (decoder): Linear(in_features=768, out_features=31820, bias=True)
+    )
+  )
+), 'calculate_probabilities': True}",labelszeroday,200,646.1445569992065,Thu Jan  1 00:00:00 1970,0.22441592,0.6179940445605069,0.7513761467889908,0.4643459839404175,0.8068112236246928,0.8197592659964632,0.8361934477379095,0.8361934477379095,23.309029968574325,0.9942189120291124
+TopicCybertweets,21366,CyberTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 300, 'verbose': True, 'min_topic_size': 25, 'vectorizer_model': UrgentFocus_CountVectorizer(stop_words='english'), 'representation_model': BertForMaskedLM(
+  (bert): BertModel(
+    (embeddings): BertEmbeddings(
+      (word_embeddings): Embedding(31820, 768, padding_idx=0)
+      (position_embeddings): Embedding(512, 768)
+      (token_type_embeddings): Embedding(2, 768)
+      (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (encoder): BertEncoder(
+      (layer): ModuleList(
+        (0-11): 12 x BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+    )
+  )
+  (cls): BertOnlyMLMHead(
+    (predictions): BertLMPredictionHead(
+      (transform): BertPredictionHeadTransform(
+        (dense): Linear(in_features=768, out_features=768, bias=True)
+        (transform_act_fn): GELUActivation()
+        (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      )
+      (decoder): Linear(in_features=768, out_features=31820, bias=True)
+    )
+  )
+), 'calculate_probabilities': True}",labelsCyberAttack,300,564.6978590488434,Thu Jan  1 00:00:00 1970,0.1950919702583343,0.5904860386279793,0.7556451612903226,0.4461979178987231,0.668706626,0.7063507637916437,0.726365055,0.726365055,22.481323081746424,0.9949810357940676
+TopicCybertweets,21366,CyberTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 300, 'verbose': True, 'min_topic_size': 25, 'vectorizer_model': UrgentFocus_CountVectorizer(stop_words='english'), 'representation_model': BertForMaskedLM(
+  (bert): BertModel(
+    (embeddings): BertEmbeddings(
+      (word_embeddings): Embedding(31820, 768, padding_idx=0)
+      (position_embeddings): Embedding(512, 768)
+      (token_type_embeddings): Embedding(2, 768)
+      (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (encoder): BertEncoder(
+      (layer): ModuleList(
+        (0-11): 12 x BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+    )
+  )
+  (cls): BertOnlyMLMHead(
+    (predictions): BertLMPredictionHead(
+      (transform): BertPredictionHeadTransform(
+        (dense): Linear(in_features=768, out_features=768, bias=True)
+        (transform_act_fn): GELUActivation()
+        (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      )
+      (decoder): Linear(in_features=768, out_features=31820, bias=True)
+    )
+  )
+), 'calculate_probabilities': True}",labelszeroday,300,754.6946423053741,Thu Jan  1 00:00:00 1970,0.1868929146435395,0.5897050811081017,0.7504132231404959,0.4425224906166581,0.8109076465173602,0.823238542,0.8386895475819033,0.8386895475819033,22.470914973997765,0.9945691757782654
+TopicCybertweets,21366,CyberTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 400, 'verbose': True, 'min_topic_size': 25, 'vectorizer_model': UrgentFocus_CountVectorizer(stop_words='english'), 'representation_model': BertForMaskedLM(
+  (bert): BertModel(
+    (embeddings): BertEmbeddings(
+      (word_embeddings): Embedding(31820, 768, padding_idx=0)
+      (position_embeddings): Embedding(512, 768)
+      (token_type_embeddings): Embedding(2, 768)
+      (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (encoder): BertEncoder(
+      (layer): ModuleList(
+        (0-11): 12 x BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+    )
+  )
+  (cls): BertOnlyMLMHead(
+    (predictions): BertLMPredictionHead(
+      (transform): BertPredictionHeadTransform(
+        (dense): Linear(in_features=768, out_features=768, bias=True)
+        (transform_act_fn): GELUActivation()
+        (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      )
+      (decoder): Linear(in_features=768, out_features=31820, bias=True)
+    )
+  )
+), 'calculate_probabilities': True}",labelsCyberAttack,400,852.9931778907776,Thu Jan  1 00:00:00 1970,0.1919531910939965,0.5807293104762383,0.7714285714285715,0.4479911823673839,0.6594369018661663,0.6867885643202987,0.7173166926677067,0.7173166926677067,22.57592311876804,0.9952592045263536
+TopicCybertweets,21366,CyberTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 400, 'verbose': True, 'min_topic_size': 25, 'vectorizer_model': UrgentFocus_CountVectorizer(stop_words='english'), 'representation_model': BertForMaskedLM(
+  (bert): BertModel(
+    (embeddings): BertEmbeddings(
+      (word_embeddings): Embedding(31820, 768, padding_idx=0)
+      (position_embeddings): Embedding(512, 768)
+      (token_type_embeddings): Embedding(2, 768)
+      (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (encoder): BertEncoder(
+      (layer): ModuleList(
+        (0-11): 12 x BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+    )
+  )
+  (cls): BertOnlyMLMHead(
+    (predictions): BertLMPredictionHead(
+      (transform): BertPredictionHeadTransform(
+        (dense): Linear(in_features=768, out_features=768, bias=True)
+        (transform_act_fn): GELUActivation()
+        (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      )
+      (decoder): Linear(in_features=768, out_features=31820, bias=True)
+    )
+  )
+), 'calculate_probabilities': True}",labelszeroday,400,706.6176888942719,Thu Jan  1 00:00:00 1970,0.1907027566432523,0.5845214793675535,0.7695652173913043,0.4498273993393781,0.8030419286001396,0.8096555216887023,0.8305772230889236,0.8305772230889236,23.06174128181307,0.9947967470990092
+TopicCybertweets,21366,CyberTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 500, 'verbose': True, 'min_topic_size': 25, 'vectorizer_model': UrgentFocus_CountVectorizer(stop_words='english'), 'representation_model': BertForMaskedLM(
+  (bert): BertModel(
+    (embeddings): BertEmbeddings(
+      (word_embeddings): Embedding(31820, 768, padding_idx=0)
+      (position_embeddings): Embedding(512, 768)
+      (token_type_embeddings): Embedding(2, 768)
+      (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (encoder): BertEncoder(
+      (layer): ModuleList(
+        (0-11): 12 x BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+    )
+  )
+  (cls): BertOnlyMLMHead(
+    (predictions): BertLMPredictionHead(
+      (transform): BertPredictionHeadTransform(
+        (dense): Linear(in_features=768, out_features=768, bias=True)
+        (transform_act_fn): GELUActivation()
+        (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      )
+      (decoder): Linear(in_features=768, out_features=31820, bias=True)
+    )
+  )
+), 'calculate_probabilities': True}",labelsCyberAttack,500,864.4817348,Thu Jan  1 00:00:00 1970,0.1902702202955729,0.5921067971205373,0.7694915254237288,0.4556211625300405,0.6543100745292333,0.7006338420656134,0.7213728549141966,0.7213728549141966,22.70338344,0.9951834130183737
+TopicCybertweets,21366,CyberTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 500, 'verbose': True, 'min_topic_size': 25, 'vectorizer_model': UrgentFocus_CountVectorizer(stop_words='english'), 'representation_model': BertForMaskedLM(
+  (bert): BertModel(
+    (embeddings): BertEmbeddings(
+      (word_embeddings): Embedding(31820, 768, padding_idx=0)
+      (position_embeddings): Embedding(512, 768)
+      (token_type_embeddings): Embedding(2, 768)
+      (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (encoder): BertEncoder(
+      (layer): ModuleList(
+        (0-11): 12 x BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+    )
+  )
+  (cls): BertOnlyMLMHead(
+    (predictions): BertLMPredictionHead(
+      (transform): BertPredictionHeadTransform(
+        (dense): Linear(in_features=768, out_features=768, bias=True)
+        (transform_act_fn): GELUActivation()
+        (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      )
+      (decoder): Linear(in_features=768, out_features=31820, bias=True)
+    )
+  )
+), 'calculate_probabilities': True}",labelszeroday,500,780.8869979381561,Thu Jan  1 00:00:00 1970,0.1894358046114377,0.5873180672525942,0.7546218487394958,0.4432030457082601,0.803024557,0.8091223648945959,0.8302652106084243,0.8302652106084243,22.93408961363278,0.994889782
+TopicCybertweets,21366,CyberTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 600, 'verbose': True, 'min_topic_size': 25, 'vectorizer_model': UrgentFocus_CountVectorizer(stop_words='english'), 'representation_model': BertForMaskedLM(
+  (bert): BertModel(
+    (embeddings): BertEmbeddings(
+      (word_embeddings): Embedding(31820, 768, padding_idx=0)
+      (position_embeddings): Embedding(512, 768)
+      (token_type_embeddings): Embedding(2, 768)
+      (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (encoder): BertEncoder(
+      (layer): ModuleList(
+        (0-11): 12 x BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+    )
+  )
+  (cls): BertOnlyMLMHead(
+    (predictions): BertLMPredictionHead(
+      (transform): BertPredictionHeadTransform(
+        (dense): Linear(in_features=768, out_features=768, bias=True)
+        (transform_act_fn): GELUActivation()
+        (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      )
+      (decoder): Linear(in_features=768, out_features=31820, bias=True)
+    )
+  )
+), 'calculate_probabilities': True}",labelsCyberAttack,600,620.5373322963715,Thu Jan  1 00:00:00 1970,0.2137806155243076,0.6198549724261627,0.7571428571428571,0.4693187648369518,0.6550296511269768,0.7092481595661576,0.7238689547581904,0.7238689547581904,22.73816707145693,0.994909887
+TopicCybertweets,21366,CyberTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 600, 'verbose': True, 'min_topic_size': 25, 'vectorizer_model': UrgentFocus_CountVectorizer(stop_words='english'), 'representation_model': BertForMaskedLM(
+  (bert): BertModel(
+    (embeddings): BertEmbeddings(
+      (word_embeddings): Embedding(31820, 768, padding_idx=0)
+      (position_embeddings): Embedding(512, 768)
+      (token_type_embeddings): Embedding(2, 768)
+      (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (encoder): BertEncoder(
+      (layer): ModuleList(
+        (0-11): 12 x BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+    )
+  )
+  (cls): BertOnlyMLMHead(
+    (predictions): BertLMPredictionHead(
+      (transform): BertPredictionHeadTransform(
+        (dense): Linear(in_features=768, out_features=768, bias=True)
+        (transform_act_fn): GELUActivation()
+        (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      )
+      (decoder): Linear(in_features=768, out_features=31820, bias=True)
+    )
+  )
+), 'calculate_probabilities': True}",labelszeroday,600,797.8209567070007,Thu Jan  1 00:00:00 1970,0.218379944,0.6134289987558934,0.7473684210526316,0.4584574622280887,0.8076040513696102,0.8256207643534627,0.8386895475819033,0.8386895475819033,22.972984599788727,0.9941706854675576
+TopicCybertweets,21366,CyberTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 700, 'verbose': True, 'min_topic_size': 25, 'vectorizer_model': UrgentFocus_CountVectorizer(stop_words='english'), 'representation_model': BertForMaskedLM(
+  (bert): BertModel(
+    (embeddings): BertEmbeddings(
+      (word_embeddings): Embedding(31820, 768, padding_idx=0)
+      (position_embeddings): Embedding(512, 768)
+      (token_type_embeddings): Embedding(2, 768)
+      (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (encoder): BertEncoder(
+      (layer): ModuleList(
+        (0-11): 12 x BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+    )
+  )
+  (cls): BertOnlyMLMHead(
+    (predictions): BertLMPredictionHead(
+      (transform): BertPredictionHeadTransform(
+        (dense): Linear(in_features=768, out_features=768, bias=True)
+        (transform_act_fn): GELUActivation()
+        (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      )
+      (decoder): Linear(in_features=768, out_features=31820, bias=True)
+    )
+  )
+), 'calculate_probabilities': True}",labelsCyberAttack,700,813.5453341007233,Thu Jan  1 00:00:00 1970,0.1905751703082905,0.5860357133733839,0.7725806451612903,0.4527598495255659,0.6543295249692967,0.6890662617471098,0.717628705,0.717628705,22.755259913645915,0.9955382247563566
+TopicCybertweets,21366,CyberTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 700, 'verbose': True, 'min_topic_size': 25, 'vectorizer_model': UrgentFocus_CountVectorizer(stop_words='english'), 'representation_model': BertForMaskedLM(
+  (bert): BertModel(
+    (embeddings): BertEmbeddings(
+      (word_embeddings): Embedding(31820, 768, padding_idx=0)
+      (position_embeddings): Embedding(512, 768)
+      (token_type_embeddings): Embedding(2, 768)
+      (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (encoder): BertEncoder(
+      (layer): ModuleList(
+        (0-11): 12 x BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+    )
+  )
+  (cls): BertOnlyMLMHead(
+    (predictions): BertLMPredictionHead(
+      (transform): BertPredictionHeadTransform(
+        (dense): Linear(in_features=768, out_features=768, bias=True)
+        (transform_act_fn): GELUActivation()
+        (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      )
+      (decoder): Linear(in_features=768, out_features=31820, bias=True)
+    )
+  )
+), 'calculate_probabilities': True}",labelszeroday,700,593.9767653942108,Thu Jan  1 00:00:00 1970,0.1991661822859691,0.5998740821154528,0.7547826086956522,0.4527745245880113,0.8129271887402311,0.8193221527906698,0.8371294851794072,0.8371294851794072,22.610306096780963,0.9948786555285528
+TopicCybertweets,21366,CyberTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 800, 'verbose': True, 'min_topic_size': 25, 'vectorizer_model': UrgentFocus_CountVectorizer(stop_words='english'), 'representation_model': BertForMaskedLM(
+  (bert): BertModel(
+    (embeddings): BertEmbeddings(
+      (word_embeddings): Embedding(31820, 768, padding_idx=0)
+      (position_embeddings): Embedding(512, 768)
+      (token_type_embeddings): Embedding(2, 768)
+      (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (encoder): BertEncoder(
+      (layer): ModuleList(
+        (0-11): 12 x BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+    )
+  )
+  (cls): BertOnlyMLMHead(
+    (predictions): BertLMPredictionHead(
+      (transform): BertPredictionHeadTransform(
+        (dense): Linear(in_features=768, out_features=768, bias=True)
+        (transform_act_fn): GELUActivation()
+        (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      )
+      (decoder): Linear(in_features=768, out_features=31820, bias=True)
+    )
+  )
+), 'calculate_probabilities': True}",labelsCyberAttack,800,615.5608034133911,Thu Jan  1 00:00:00 1970,0.2055289930564273,0.610009339,0.7403508771929824,0.4516209488894926,0.6624157032390269,0.7049545823885875,0.7244929797191888,0.7244929797191888,22.72936053,0.9945664772860516
+TopicCybertweets,21366,CyberTopic,"{'embedding_model': 'all-mpnet-base-v2', 'nr_topics': 800, 'verbose': True, 'min_topic_size': 25, 'vectorizer_model': UrgentFocus_CountVectorizer(stop_words='english'), 'representation_model': BertForMaskedLM(
+  (bert): BertModel(
+    (embeddings): BertEmbeddings(
+      (word_embeddings): Embedding(31820, 768, padding_idx=0)
+      (position_embeddings): Embedding(512, 768)
+      (token_type_embeddings): Embedding(2, 768)
+      (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (encoder): BertEncoder(
+      (layer): ModuleList(
+        (0-11): 12 x BertLayer(
+          (attention): BertAttention(
+            (self): BertSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+    )
+  )
+  (cls): BertOnlyMLMHead(
+    (predictions): BertLMPredictionHead(
+      (transform): BertPredictionHeadTransform(
+        (dense): Linear(in_features=768, out_features=768, bias=True)
+        (transform_act_fn): GELUActivation()
+        (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      )
+      (decoder): Linear(in_features=768, out_features=31820, bias=True)
+    )
+  )
+), 'calculate_probabilities': True}",labelszeroday,800,757.6327607631683,Thu Jan  1 00:00:00 1970,0.2142489235205446,0.6155888703183778,0.7580357142857143,0.4666383490181274,0.8083489264823883,0.8105430444448143,0.831201248,0.831201248,23.10661165172493,0.9945844563692544
+Twitter_DS,19230,CTM,"{'num_topics': 100, 'inference_type': 'combined', 'model_type': 'LDA'}",labelsCyberAttack,100,136.84121823310852,Thu Jan  1 00:00:00 1970,0.009381995,0.5529599974578154,0.395,0.2184191989958371,0.6878555279909835,0.7041403873670365,0.7618717504332756,0.7618717504332756,,0.9625415280031688
+Twitter_DS,19230,CTM,"{'num_topics': 100, 'inference_type': 'combined', 'model_type': 'LDA'}",labelszeroday,100,93.15588832,Thu Jan  1 00:00:00 1970,0.025826684,0.5665186765310201,0.407,0.2305731013481251,0.7115084628834544,0.7062062738201119,0.7937608318890814,0.7937608318890814,,0.9631028888921846
+Twitter_DS,19230,CTM,"{'num_topics': 200, 'inference_type': 'combined', 'model_type': 'LDA'}",labelsCyberAttack,200,70.72446775436401,Thu Jan  1 00:00:00 1970,-0.048309303,0.5122962337649603,0.352,0.180328274,0.6820567469103473,0.6963226715072154,0.7604852686308492,0.7604852686308492,,0.960772526
+Twitter_DS,19230,CTM,"{'num_topics': 200, 'inference_type': 'combined', 'model_type': 'LDA'}",labelszeroday,200,51.07992458343506,Thu Jan  1 00:00:00 1970,-0.060795013,0.4925218444752033,0.3835,0.1888821273562404,0.7104742343923338,0.7035953744363076,0.794107452,0.794107452,,0.9571547387792824
+Twitter_DS,19230,CTM,"{'num_topics': 300, 'inference_type': 'combined', 'model_type': 'LDA'}",labelsCyberAttack,300,100.87593293190002,Thu Jan  1 00:00:00 1970,-0.023133769,0.525134211,0.2713333333333333,0.142486416,0.702991936,0.6950598430291189,0.7480069324090122,0.7480069324090122,,0.9535164270761922
+Twitter_DS,19230,CTM,"{'num_topics': 300, 'inference_type': 'combined', 'model_type': 'LDA'}",labelszeroday,300,95.85565328598022,Thu Jan  1 00:00:00 1970,-0.037145382,0.5089000743571442,0.2933333333333333,0.1492773551447623,0.7259592042276938,0.7138209740999752,0.7830155979202773,0.7830155979202773,,0.9613997290880882
+Twitter_DS,19230,CTM,"{'num_topics': 400, 'inference_type': 'combined', 'model_type': 'LDA'}",labelsCyberAttack,400,80.88411092758179,Thu Jan  1 00:00:00 1970,-0.098294239,0.4711337768365342,0.36175,0.1704326437706162,0.6683017911819573,0.6526666374204498,0.7511265164644714,0.7511265164644714,,0.9612101171043952
+Twitter_DS,19230,CTM,"{'num_topics': 400, 'inference_type': 'combined', 'model_type': 'LDA'}",labelszeroday,400,103.40119338035583,Thu Jan  1 00:00:00 1970,-0.032237505,0.5236241363165475,0.27,0.1413785168054678,0.7105922237824183,0.6956242341668699,0.7920277296360485,0.7920277296360485,,0.957141854
+Twitter_DS,19230,CTM,"{'num_topics': 500, 'inference_type': 'combined', 'model_type': 'LDA'}",labelsCyberAttack,500,109.77945137023926,Thu Jan  1 00:00:00 1970,-0.073803268,0.4821262343992955,0.3118,0.1503269598857003,0.6652002655277803,0.6385440460186083,0.7247833622183709,0.7247833622183709,,0.9597960974104396
+Twitter_DS,19230,CTM,"{'num_topics': 500, 'inference_type': 'combined', 'model_type': 'LDA'}",labelszeroday,500,66.70382881164551,Thu Jan  1 00:00:00 1970,-0.113816222,0.4565046216102074,0.393,0.1794063162928115,0.7072540592965203,0.6737601515685533,0.7868284228769498,0.7868284228769498,,0.9702431393860046
+Twitter_DS,19230,CTM,"{'num_topics': 600, 'inference_type': 'combined', 'model_type': 'LDA'}",labelsCyberAttack,600,64.41395831108093,Thu Jan  1 00:00:00 1970,-0.145729146,0.4501524275147686,0.4225,0.1901894006249897,0.6622502322198531,0.6336649445500621,0.7220103986135182,0.7220103986135182,,0.968031239
+Twitter_DS,19230,CTM,"{'num_topics': 600, 'inference_type': 'combined', 'model_type': 'LDA'}",labelszeroday,600,102.6039538383484,Thu Jan  1 00:00:00 1970,-0.10958902,0.4515695927338987,0.3276666666666666,0.1479643032191408,0.7122017337819981,0.6981444363707129,0.7906412478336222,0.7906412478336222,,0.9636052617760644
+Twitter_DS,19230,CTM,"{'num_topics': 700, 'inference_type': 'combined', 'model_type': 'LDA'}",labelsCyberAttack,700,78.56084752082825,Thu Jan  1 00:00:00 1970,-0.118957618,0.4472424203847947,0.3731428571428571,0.1668853145778691,0.6879844181299498,0.6718393431837759,0.7244367417677643,0.7244367417677643,,0.9656136770709904
+Twitter_DS,19230,CTM,"{'num_topics': 700, 'inference_type': 'combined', 'model_type': 'LDA'}",labelszeroday,700,108.11320567131042,Thu Jan  1 00:00:00 1970,-0.100867705,0.4665378447176604,0.3157142857142857,0.1472926624037185,0.7179829763188946,0.6965306526560603,0.7701906412478337,0.7701906412478337,,0.9658892276866516
+Twitter_DS,19230,CTM,"{'num_topics': 800, 'inference_type': 'combined', 'model_type': 'LDA'}",labelsCyberAttack,800,105.08801198005676,Thu Jan  1 00:00:00 1970,-0.125279747,0.4569693943066181,0.34925,0.1595965609615864,0.6875565591885596,0.6749071835466983,0.7067590987868284,0.7067590987868284,,0.9709922403870064
+Twitter_DS,19230,CTM,"{'num_topics': 800, 'inference_type': 'combined', 'model_type': 'LDA'}",labelszeroday,800,115.56128191947936,Thu Jan  1 00:00:00 1970,-0.123822039,0.4492597147302063,0.323875,0.1455039901082455,0.7228042513837842,0.7048520492814706,0.7545927209705373,0.7545927209705373,,0.9683055882004064
+TopicCybertweets,21366,CTM,"{'num_topics': 100, 'inference_type': 'combined', 'model_type': 'LDA'}",labelsCyberAttack,100,261.6531980037689,Thu Jan  1 00:00:00 1970,0.073242377,0.5592027518675391,0.572,0.3198639740682323,0.6792255523221956,0.7259820342674319,0.7354134165366615,0.7354134165366615,,0.9888237050648616
+TopicCybertweets,21366,CTM,"{'num_topics': 100, 'inference_type': 'combined', 'model_type': 'LDA'}",labelszeroday,100,72.69744706,Thu Jan  1 00:00:00 1970,0.088368217,0.5780388909940302,0.461,0.2664759287482479,0.8272747330044625,0.8320273225707697,0.8464898595943837,0.8464898595943837,,0.9778310519492324
+TopicCybertweets,21366,CTM,"{'num_topics': 200, 'inference_type': 'combined', 'model_type': 'LDA'}",labelsCyberAttack,200,153.43438529968262,Thu Jan  1 00:00:00 1970,0.1306125294208636,0.6092078402963246,0.317,0.1931188853739349,0.6785722994852925,0.712308964,0.7307332293291732,0.7307332293291732,,0.9805918915166536
+TopicCybertweets,21366,CTM,"{'num_topics': 200, 'inference_type': 'combined', 'model_type': 'LDA'}",labelszeroday,200,169.26400423049927,Thu Jan  1 00:00:00 1970,0.1076512617378983,0.5862408698992045,0.3285,0.1925801257618887,0.8336090039322559,0.8363162616413976,0.8499219968798752,0.8499219968798752,,0.9827084344053844
+TopicCybertweets,21366,CTM,"{'num_topics': 300, 'inference_type': 'combined', 'model_type': 'LDA'}",labelsCyberAttack,300,66.42181062698364,Thu Jan  1 00:00:00 1970,-0.038539854,0.4688527257983961,0.355,0.1664427176584306,0.6494076579637428,0.6934045804080419,0.7182527301092043,0.7182527301092043,,0.9783755395420004
+TopicCybertweets,21366,CTM,"{'num_topics': 300, 'inference_type': 'combined', 'model_type': 'LDA'}",labelszeroday,300,97.32611536979675,Thu Jan  1 00:00:00 1970,0.089437393,0.5800166164997526,0.279,0.1618246360034309,0.8342352842050617,0.8375955846669719,0.8508580343213729,0.8508580343213729,,0.9764964011744528
+TopicCybertweets,21366,CTM,"{'num_topics': 400, 'inference_type': 'combined', 'model_type': 'LDA'}",labelsCyberAttack,400,79.77959370613098,Thu Jan  1 00:00:00 1970,0.046706379,0.5412762813334708,0.2965,0.1604884174153741,0.646711535,0.6541336320315065,0.6995319812792512,0.6995319812792512,,0.973934919
+TopicCybertweets,21366,CTM,"{'num_topics': 400, 'inference_type': 'combined', 'model_type': 'LDA'}",labelszeroday,400,96.44270420074464,Thu Jan  1 00:00:00 1970,0.061842319,0.5475250797999678,0.274,0.1500218718651912,0.800568565,0.8210572386495056,0.8349453978159126,0.8349453978159126,,0.9758867923620338
+TopicCybertweets,21366,CTM,"{'num_topics': 500, 'inference_type': 'combined', 'model_type': 'LDA'}",labelsCyberAttack,500,89.47411346435547,Thu Jan  1 00:00:00 1970,0.075045715,0.556201662,0.275,0.1529554571828814,0.6623370567995501,0.6594764780918275,0.6957878315132605,0.6957878315132605,,0.9712971430717992
+TopicCybertweets,21366,CTM,"{'num_topics': 500, 'inference_type': 'combined', 'model_type': 'LDA'}",labelszeroday,500,117.99417543411256,Thu Jan  1 00:00:00 1970,0.084821714,0.5628990354936089,0.2192,0.123387469,0.8166802782857693,0.8124735652937463,0.828393136,0.828393136,,0.9719175056991884
+TopicCybertweets,21366,CTM,"{'num_topics': 600, 'inference_type': 'combined', 'model_type': 'LDA'}",labelsCyberAttack,600,125.78480315208436,Thu Jan  1 00:00:00 1970,0.016010547,0.4965028266863883,0.2535,0.1258634665649994,0.6540975148859642,0.6604216291902559,0.7020280811232449,0.7020280811232449,,0.9758156752008535
+TopicCybertweets,21366,CTM,"{'num_topics': 600, 'inference_type': 'combined', 'model_type': 'LDA'}",labelszeroday,600,84.36699342727661,Thu Jan  1 00:00:00 1970,-0.02469017,0.496902083,0.3183333333333333,0.158180496,0.7851941544585843,0.7847489918535114,0.7856474258970358,0.7856474258970358,,0.97634225
+TopicCybertweets,21366,CTM,"{'num_topics': 700, 'inference_type': 'combined', 'model_type': 'LDA'}",labelsCyberAttack,700,82.13286590576172,Thu Jan  1 00:00:00 1970,-0.003851408,0.5035885837752978,0.2981428571428571,0.1501413391912923,0.6574404044292665,0.6494111111489297,0.6755070202808112,0.6755070202808112,,0.9769398421826032
+TopicCybertweets,21366,CTM,"{'num_topics': 700, 'inference_type': 'combined', 'model_type': 'LDA'}",labelszeroday,700,113.6950385570526,Thu Jan  1 00:00:00 1970,-0.034071815,0.4718059790498795,0.2992857142857142,0.1412047894442139,0.7649092362580963,0.7649408987399977,0.8053042121684867,0.8053042121684867,,0.9816567582064496
+TopicCybertweets,21366,CTM,"{'num_topics': 800, 'inference_type': 'combined', 'model_type': 'LDA'}",labelsCyberAttack,800,151.0880787372589,Thu Jan  1 00:00:00 1970,0.022681974,0.5209810743811832,0.239125,0.1245795994114004,0.638447576,0.6283607078031662,0.6611544461778471,0.6611544461778471,,0.9692653763088892
+TopicCybertweets,21366,CTM,"{'num_topics': 800, 'inference_type': 'combined', 'model_type': 'LDA'}",labelszeroday,800,111.5293951034546,Thu Jan  1 00:00:00 1970,0.051352125,0.5464224862951896,0.25925,0.1416600295720279,0.7591194008210111,0.7483931770481377,0.7778471138845554,0.7778471138845554,,0.9649867975834878
+Twitter_DS,19230,LDA,"{'num_topics': 100, 'random_state': 42}",labelsCyberAttack,100,18.193496227264404,Thu Jan  1 00:00:00 1970,-0.02801358,0.442781703,0.529,0.2342315206965732,0.661841691,0.6499545661082743,0.7608318890814558,0.7608318890814558,3.892669386357972,0.871430598
+Twitter_DS,19230,LDA,"{'num_topics': 100, 'random_state': 42}",labelszeroday,100,17.64232325553894,Thu Jan  1 00:00:00 1970,-0.02801358,0.442781703,0.529,0.2342315206965732,0.661841691,0.6499545661082743,0.7608318890814558,0.7608318890814558,3.892669386357972,0.871430598
+Twitter_DS,19230,LDA,"{'num_topics': 200, 'random_state': 42}",labelsCyberAttack,200,20.936347484588623,Thu Jan  1 00:00:00 1970,-0.041559318,0.4448799641153345,0.5515,0.2453513,0.6778596351464443,0.6758037234027691,0.7542461005199307,0.7542461005199307,4.954403043030037,0.9368351276834692
+Twitter_DS,19230,LDA,"{'num_topics': 200, 'random_state': 42}",labelszeroday,200,20.421436309814453,Thu Jan  1 00:00:00 1970,-0.041559318,0.4448799641153345,0.5515,0.2453513,0.6778596351464443,0.6758037234027691,0.7542461005199307,0.7542461005199307,4.954403043030037,0.9368351276834692
+Twitter_DS,19230,LDA,"{'num_topics': 300, 'random_state': 42}",labelsCyberAttack,300,41.73408055305481,Thu Jan  1 00:00:00 1970,-0.08131652,0.4865028919719382,0.403,0.1960606654646911,0.6957649455146261,0.6858903290321958,0.7445407279029462,0.7445407279029462,4.432703079969774,0.9032133907822896
+Twitter_DS,19230,LDA,"{'num_topics': 300, 'random_state': 42}",labelszeroday,300,41.90969586372376,Thu Jan  1 00:00:00 1970,-0.08131652,0.4865028919719382,0.403,0.1960606654646911,0.6957649455146261,0.6858903290321958,0.7445407279029462,0.7445407279029462,4.432703079969774,0.9032133907822896
+Twitter_DS,19230,LDA,"{'num_topics': 400, 'random_state': 42}",labelsCyberAttack,400,51.10712432861328,Thu Jan  1 00:00:00 1970,-0.143773463,0.3999882126740038,0.188,0.075197784,0.6947695329448041,0.682260821,0.7389948006932409,0.7389948006932409,2.468340119567872,0.5900217781115784
+Twitter_DS,19230,LDA,"{'num_topics': 400, 'random_state': 42}",labelszeroday,400,51.814635038375854,Thu Jan  1 00:00:00 1970,-0.143773463,0.3999882126740038,0.188,0.075197784,0.6947695329448041,0.682260821,0.7389948006932409,0.7389948006932409,2.468340119567872,0.5900217781115784
+Twitter_DS,19230,LDA,"{'num_topics': 500, 'random_state': 42}",labelsCyberAttack,500,60.00041866,Thu Jan  1 00:00:00 1970,-0.197259186,0.3249490626600028,0.0386,0.012543034,0.6766478313724917,0.6768877010624305,0.755632582,0.755632582,0.5681747235507856,0.1382437252613303
+Twitter_DS,19230,LDA,"{'num_topics': 500, 'random_state': 42}",labelszeroday,500,60.56226682662964,Thu Jan  1 00:00:00 1970,-0.197259186,0.3249490626600028,0.0386,0.012543034,0.6766478313724917,0.6768877010624305,0.755632582,0.755632582,0.5681747235507856,0.1382437252613303
+Twitter_DS,19230,LDA,"{'num_topics': 600, 'random_state': 42}",labelsCyberAttack,600,67.25776290893555,Thu Jan  1 00:00:00 1970,-0.210494392,0.309108164,0.005666667,0.001751613,0.6603100501529668,0.582034127,0.7629116117850954,0.7629116117850954,0.037550236,0.009979814
+Twitter_DS,19230,LDA,"{'num_topics': 600, 'random_state': 42}",labelszeroday,600,67.81710648536682,Thu Jan  1 00:00:00 1970,-0.210494392,0.309108164,0.005666667,0.001751613,0.6603100501529668,0.582034127,0.7629116117850954,0.7629116117850954,0.037550236,0.009979814
+Twitter_DS,19230,LDA,"{'num_topics': 700, 'random_state': 42}",labelsCyberAttack,700,75.72545742988586,Thu Jan  1 00:00:00 1970,-0.211511259,0.3076764889811328,0.001428571,0.000439538,0.6603100501529668,0.582034127,0.7629116117850954,0.7629116117850954,0.0,0.0
+Twitter_DS,19230,LDA,"{'num_topics': 700, 'random_state': 42}",labelszeroday,700,76.49664950370789,Thu Jan  1 00:00:00 1970,-0.211511259,0.3076764889811328,0.001428571,0.000439538,0.6603100501529668,0.582034127,0.7629116117850954,0.7629116117850954,0.0,0.0
+Twitter_DS,19230,LDA,"{'num_topics': 800, 'random_state': 42}",labelsCyberAttack,800,86.48816990852356,Thu Jan  1 00:00:00 1970,-0.211511259,0.3076764889811328,0.00125,0.000384596,0.6603100501529668,0.582034127,0.7629116117850954,0.7629116117850954,0.0,0.0
+Twitter_DS,19230,LDA,"{'num_topics': 800, 'random_state': 42}",labelszeroday,800,90.12980890274048,Thu Jan  1 00:00:00 1970,-0.211511259,0.3076764889811328,0.00125,0.000384596,0.6603100501529668,0.582034127,0.7629116117850954,0.7629116117850954,0.0,0.0
+TopicCybertweets,21366,LDA,"{'num_topics': 100, 'random_state': 42}",labelsCyberAttack,100,17.02732563018799,Thu Jan  1 00:00:00 1970,-0.016123905,0.4415776602514467,0.577,0.2547903099650847,0.6738909946698887,0.712837681,0.7297971918876756,0.7297971918876756,4.482439729517156,0.9241856728349712
+TopicCybertweets,21366,LDA,"{'num_topics': 100, 'random_state': 42}",labelszeroday,100,16.68186616897583,Thu Jan  1 00:00:00 1970,-0.016123905,0.4415776602514467,0.577,0.2547903099650847,0.6738909946698887,0.712837681,0.7297971918876756,0.7297971918876756,4.482439729517156,0.9241856728349712
+TopicCybertweets,21366,LDA,"{'num_topics': 200, 'random_state': 42}",labelsCyberAttack,200,20.466055631637573,Thu Jan  1 00:00:00 1970,-0.020306127,0.42430784,0.4805,0.2038799171534572,0.6846642655653817,0.7099704716134605,0.7310452418096723,0.7310452418096723,5.356628012710052,0.9372894818753228
+TopicCybertweets,21366,LDA,"{'num_topics': 200, 'random_state': 42}",labelszeroday,200,19.982033014297485,Thu Jan  1 00:00:00 1970,-0.020306127,0.42430784,0.4805,0.2038799171534572,0.6846642655653817,0.7099704716134605,0.7310452418096723,0.7310452418096723,5.356628012710052,0.9372894818753228
+TopicCybertweets,21366,LDA,"{'num_topics': 300, 'random_state': 42}",labelsCyberAttack,300,26.41173434257508,Thu Jan  1 00:00:00 1970,-0.054677586,0.1932312626990399,0.022666667,0.004379909,0.5898102835690207,0.6196604849296984,0.6998439937597504,0.6998439937597504,0.2532482999045071,0.059098646
+TopicCybertweets,21366,LDA,"{'num_topics': 300, 'random_state': 42}",labelszeroday,300,26.04029893875122,Thu Jan  1 00:00:00 1970,-0.054677586,0.1932312626990399,0.022666667,0.004379909,0.5898102835690207,0.6196604849296984,0.6998439937597504,0.6998439937597504,0.2532482999045071,0.059098646
+TopicCybertweets,21366,LDA,"{'num_topics': 400, 'random_state': 42}",labelsCyberAttack,400,38.579636573791504,Thu Jan  1 00:00:00 1970,-0.056531936,0.1838099215388131,0.0025,0.000459525,0.5795335596415058,0.4932816070833161,0.7023400936037442,0.7023400936037442,0.0,0.0
+TopicCybertweets,21366,LDA,"{'num_topics': 400, 'random_state': 42}",labelszeroday,400,40.13624906539917,Thu Jan  1 00:00:00 1970,-0.056531936,0.1838099215388131,0.0025,0.000459525,0.5795335596415058,0.4932816070833161,0.7023400936037442,0.7023400936037442,0.0,0.0
+TopicCybertweets,21366,LDA,"{'num_topics': 500, 'random_state': 42}",labelsCyberAttack,500,63.882248401641846,Thu Jan  1 00:00:00 1970,-0.056531936,0.183809922,0.002,0.00036762,0.5795335596415058,0.4932816070833161,0.7023400936037442,0.7023400936037442,0.0,0.0
+TopicCybertweets,21366,LDA,"{'num_topics': 500, 'random_state': 42}",labelszeroday,500,62.11128067970276,Thu Jan  1 00:00:00 1970,-0.056531936,0.183809922,0.002,0.00036762,0.5795335596415058,0.4932816070833161,0.7023400936037442,0.7023400936037442,0.0,0.0
+TopicCybertweets,21366,LDA,"{'num_topics': 600, 'random_state': 42}",labelsCyberAttack,600,74.04383420944214,Thu Jan  1 00:00:00 1970,-0.056531936,0.1838099215388131,0.001666667,0.00030635,0.5795335596415058,0.4932816070833161,0.7023400936037442,0.7023400936037442,0.0,0.0
+TopicCybertweets,21366,LDA,"{'num_topics': 600, 'random_state': 42}",labelszeroday,600,72.60223698616028,Thu Jan  1 00:00:00 1970,-0.056531936,0.1838099215388131,0.001666667,0.00030635,0.5795335596415058,0.4932816070833161,0.7023400936037442,0.7023400936037442,0.0,0.0
+TopicCybertweets,21366,LDA,"{'num_topics': 700, 'random_state': 42}",labelsCyberAttack,700,83.33431696891785,Thu Jan  1 00:00:00 1970,-0.056531936,0.183809922,0.001428571,0.000262586,0.5795335596415058,0.4932816070833161,0.7023400936037442,0.7023400936037442,0.0,0.0
+TopicCybertweets,21366,LDA,"{'num_topics': 700, 'random_state': 42}",labelszeroday,700,84.17001271247864,Thu Jan  1 00:00:00 1970,-0.056531936,0.183809922,0.001428571,0.000262586,0.5795335596415058,0.4932816070833161,0.7023400936037442,0.7023400936037442,0.0,0.0
+TopicCybertweets,21366,LDA,"{'num_topics': 800, 'random_state': 42}",labelsCyberAttack,800,97.41426038742064,Thu Jan  1 00:00:00 1970,-0.056531936,0.1838099215388131,0.00125,0.000229762,0.5795335596415058,0.4932816070833161,0.7023400936037442,0.7023400936037442,0.0,0.0
+TopicCybertweets,21366,LDA,"{'num_topics': 800, 'random_state': 42}",labelszeroday,800,109.0829894542694,Thu Jan  1 00:00:00 1970,-0.056531936,0.1838099215388131,0.00125,0.000229762,0.5795335596415058,0.4932816070833161,0.7023400936037442,0.7023400936037442,0.0,0.0
+TopicCybertweets,21366,NMF,{'num_topics': 600},labelszeroday,600,2437.0873975753784,Thu Jan  1 00:00:00 1970,0.0639430427684549,0.5266937516750795,0.3333333333333333,0.1755645838916931,0.8458875386591075,0.8433580725191329,0.8533541341653667,0.8533541341653667,6.166168636845209,0.9840787826721082
+TopicCybertweets,21366,NMF,{'num_topics': 700},labelsCyberAttack,700,3033.609525203705,Thu Jan  1 00:00:00 1970,0.069321274431131,0.5403949004346789,0.3192857142857143,0.1725403717816439,0.7101198981026088,0.7097869230771847,0.7307332293291732,0.7307332293291732,6.23484665011854,0.9849890203663592
+TopicCybertweets,21366,NMF,{'num_topics': 700},labelszeroday,700,3095.368749856949,Thu Jan  1 00:00:00 1970,0.0690491385012455,0.5334870401551554,0.3272857142857143,0.1746026869993515,0.8522261022661498,0.853944583449493,0.86396255850234,0.86396255850234,6.202792973530551,0.9853983516772724
+TopicCybertweets,21366,NMF,{'num_topics': 800},labelsCyberAttack,800,3814.1694979667664,Thu Jan  1 00:00:00 1970,0.0598504125623263,0.5290228126423685,0.313125,0.1656502682086416,0.7142652243712728,0.7186488953939578,0.7388455538221529,0.7388455538221529,6.2467729228934985,0.9833256794721346
+TopicCybertweets,21366,NMF,{'num_topics': 800},labelszeroday,800,3820.422379255295,Thu Jan  1 00:00:00 1970,0.06933477103217175,0.5354174711854107,0.31825,0.17039661020475694,0.8494384743557394,0.8479395138721825,0.8583463338533541,0.8583463338533541,6.258749133255136,0.9844929550767909
